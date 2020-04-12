@@ -1,7 +1,1 @@
-# Παράλληλος Προγραμματισμός 2018
-## Προγραμματιστική Εργασία #2
-
-**Ονοματεπώνυμο:** Ξυπολιτόπουλος Κωνσταντίνος
-**Α.Μ.:** Π2014 116
-
-
+A parallel quicksort implementation written in C, using POSIX threads and the "threadpool" design pattern.
