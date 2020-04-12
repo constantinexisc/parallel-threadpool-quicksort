@@ -1,5 +1,4 @@
-// AM: 2014116
-// Xipolitopoulos Konstantinos
+// Constantine Xipolitopoulos
 // 11 May 2018
 
 #include <stdio.h>
